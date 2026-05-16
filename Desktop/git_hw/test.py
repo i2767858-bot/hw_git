@@ -1,1 +1,4 @@
-print("This is first modification")
+def hello():
+    print("Hello, Chanjin!")
+
+hello()
